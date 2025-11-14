@@ -1,0 +1,101 @@
+[2025-11-09 12:31:46] [INFO] Booting Self-Healing Kernel Simulator in MANUAL mode.
+[2025-11-09 12:31:46] [INFO] All subsystems initialized.
+[2025-11-09 12:31:46] [INFO] Entering MANUAL mode shell.
+[2025-11-09 12:32:51] [WARNING] Subsystem Memory crashed (manual).
+[2025-11-09 12:33:03] [WARNING] Subsystem Network crashed (manual).
+[2025-11-09 12:33:10] [WARNING] Subsystem I/O crashed (manual).
+[2025-11-09 12:33:27] [INFO] Attempting heal of Network (manual)...
+[2025-11-09 12:33:27] [SUCCESS] Subsystem Network healed successfully (manual).
+[2025-11-09 12:33:45] [MANUAL] Manual restart initiated for Memory.
+[2025-11-09 12:33:45] [SUCCESS] Subsystem Memory restarted successfully (manual).
+[2025-11-09 12:33:58] [MANUAL] Manual restart initiated for I/O.
+[2025-11-09 12:33:58] [SUCCESS] Subsystem I/O restarted successfully (manual).
+[2025-11-09 12:34:12] [INFO] Exiting MANUAL mode.
+[2025-11-09 12:34:12] [INFO] Kernel simulator terminated.
+[2025-11-09 12:38:57] [INFO] Manual mode started.
+[2025-11-09 12:39:12] [WARNING] Subsystem CPU crashed.
+[2025-11-09 12:39:14] [WARNING] Subsystem Memory crashed.
+[2025-11-09 12:39:16] [WARNING] Subsystem I/O crashed.
+[2025-11-09 12:39:19] [WARNING] Subsystem Network crashed.
+[2025-11-09 12:39:24] [WARNING] Subsystem Storage crashed.
+[2025-11-09 12:39:34] [INFO] Exited manual mode.
+[2025-11-09 12:39:55] [INFO] Manual mode started.
+[2025-11-09 12:40:10] [WARNING] Subsystem CPU crashed.
+[2025-11-09 12:40:12] [WARNING] Subsystem Memory crashed.
+[2025-11-09 12:40:15] [WARNING] Subsystem I/O crashed.
+[2025-11-09 12:40:17] [WARNING] Subsystem Network crashed.
+[2025-11-09 12:40:19] [WARNING] Subsystem Storage crashed.
+[2025-11-09 12:40:27] [INFO] Exited manual mode.
+[2025-11-10 21:31:07] [INFO] Manual mode started.
+[2025-11-10 21:31:24] [WARNING] Subsystem CPU crashed.
+[2025-11-10 21:31:28] [WARNING] Subsystem Memory crashed.
+[2025-11-10 21:31:31] [WARNING] Subsystem I/O crashed.
+[2025-11-10 21:31:45] [INFO] Restarting subsystem CPU...
+[2025-11-10 21:31:45] [SUCCESS] Subsystem CPU restarted successfully.
+[2025-11-10 21:32:02] [INFO] Exited manual mode.
+[2025-11-10 21:32:22] [INFO] Manual mode started.
+[2025-11-10 16:33:04] [INFO] Exited manual mode.
+[2025-11-10 16:33:26] [INFO] Manual mode started.
+[2025-11-10 16:33:57] [WARNING] Subsystem CPU crashed.
+[2025-11-10 16:34:02] [WARNING] Subsystem Storage crashed.
+[2025-11-10 16:34:07] [WARNING] Subsystem I/O crashed.
+[2025-11-10 16:34:19] [INFO] Healing subsystem CPU...
+[2025-11-10 16:34:20] [SUCCESS] Subsystem CPU healed successfully.
+[2025-11-10 16:34:29] [INFO] Exited manual mode.
+[2025-11-10 16:34:53] [INFO] Manual mode started.
+[2025-11-10 16:35:08] [INFO] Exited manual mode.
+[2025-11-13 14:15:04] [INFO] Manual mode started.
+[2025-11-13 14:15:16] [WARNING] Subsystem CPU crashed.
+[2025-11-13 14:15:22] [WARNING] Subsystem I/O crashed.
+[2025-11-13 14:15:27] [INFO] Healing subsystem I/O...
+[2025-11-13 14:15:27] [SUCCESS] Subsystem I/O healed successfully.
+[2025-11-13 14:15:36] [WARNING] Subsystem Storage crashed.
+[2025-11-13 14:15:43] [INFO] Exited manual mode.
+[2025-11-13 14:16:05] [INFO] Manual mode started.
+[2025-11-13 14:18:42] [INFO] Exited manual mode.
+[2025-11-13 22:12:40] [INFO] Manual mode started.
+[2025-11-13 22:13:08] [WARNING] Subsystem Memory crashed.
+[2025-11-13 22:13:13] [WARNING] Subsystem I/O crashed.
+[2025-11-13 22:13:28] [INFO] Healing subsystem Memory...
+[2025-11-13 22:13:29] [SUCCESS] Subsystem Memory healed successfully.
+[2025-11-13 22:13:36] [INFO] Restarting subsystem Memory...
+[2025-11-13 22:13:36] [SUCCESS] Subsystem Memory restarted successfully.
+[2025-11-13 22:13:48] [WARNING] Subsystem CPU crashed.
+[2025-11-13 22:13:53] [WARNING] Subsystem Network crashed.
+[2025-11-13 22:13:57] [WARNING] Subsystem Storage crashed.
+[2025-11-13 22:14:03] [INFO] Exited manual mode.
+[2025-11-13 22:14:56] [INFO] Manual mode started.
+[2025-11-13 22:15:21] [INFO] Manual mode started.
+[2025-11-13 22:15:41] [WARNING] Subsystem CPU crashed.
+[2025-11-13 22:15:44] [WARNING] Subsystem Memory crashed.
+[2025-11-13 22:15:52] [INFO] Healing subsystem CPU...
+[2025-11-13 22:15:52] [SUCCESS] Subsystem CPU healed successfully.
+[2025-11-13 22:16:05] [WARNING] Subsystem I/O crashed.
+[2025-11-13 22:16:09] [WARNING] Subsystem Network crashed.
+[2025-11-13 22:16:24] [INFO] Exited manual mode.
+[2025-11-13 22:16:41] [INFO] Manual mode started.
+[2025-11-13 22:16:50] [INFO] Exited manual mode.
+[2025-11-14 13:58:46] [INFO] Manual mode started.
+[2025-11-14 13:58:55] [WARNING] Subsystem CPU crashed.
+[2025-11-14 13:58:58] [WARNING] Subsystem Memory crashed.
+[2025-11-14 13:59:00] [WARNING] Subsystem I/O crashed.
+[2025-11-14 13:59:05] [INFO] Healing subsystem CPU...
+[2025-11-14 13:59:06] [SUCCESS] Subsystem CPU healed successfully.
+[2025-11-14 13:59:10] [INFO] Restarting subsystem CPU...
+[2025-11-14 13:59:10] [SUCCESS] Subsystem CPU restarted successfully.
+[2025-11-14 13:59:19] [INFO] Restarting subsystem Memory...
+[2025-11-14 13:59:19] [SUCCESS] Subsystem Memory restarted successfully.
+[2025-11-14 13:59:32] [WARNING] Subsystem Network crashed.
+[2025-11-14 13:59:36] [WARNING] Subsystem Storage crashed.
+[2025-11-14 13:59:39] [WARNING] Subsystem Memory crashed.
+[2025-11-14 13:59:43] [INFO] Exited manual mode.
+[2025-11-14 13:59:53] [INFO] Manual mode started.
+[2025-11-14 13:59:58] [INFO] Exited manual mode.
+[2025-11-14 16:23:20] [INFO] Manual mode started.
+[2025-11-14 16:24:03] [WARNING] Subsystem Memory crashed.
+[2025-11-14 16:24:11] [INFO] Healing subsystem Memory...
+[2025-11-14 16:24:11] [SUCCESS] Subsystem Memory healed successfully.
+[2025-11-14 16:24:26] [WARNING] Subsystem CPU crashed.
+[2025-11-14 16:24:28] [WARNING] Subsystem Memory crashed.
+[2025-11-14 16:24:41] [INFO] Exited manual mode.
+[2025-11-14 16:24:48] [INFO] Manual mode started.

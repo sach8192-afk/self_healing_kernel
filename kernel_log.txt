@@ -1,0 +1,24 @@
+[2025-11-09 12:17:19] [INFO] Log rotated. Old log saved as kernel_log_old.txt
+[2025-11-09 12:17:19] [INFO] All subsystems initialized successfully.
+[2025-11-09 12:17:19] [INFO] Entering main loop...
+[2025-11-09 12:17:31] [WARNING] Subsystem I/O crashed unexpectedly.
+[2025-11-09 12:17:31] [INFO] Attempting recovery of I/O...
+[2025-11-09 12:17:32] [SUCCESS] Subsystem I/O recovered successfully.
+[2025-11-09 12:17:59] [MANUAL] Manual restart initiated for Memory.
+[2025-11-09 12:18:00] [SUCCESS] Subsystem Memory restarted successfully.
+[2025-11-09 12:18:04] [WARNING] Subsystem Network crashed unexpectedly.
+[2025-11-09 12:18:04] [INFO] Attempting recovery of Network...
+[2025-11-09 12:18:05] [SUCCESS] Subsystem Network recovered successfully.
+[2025-11-09 12:20:15] [INFO] Booting Self-Healing Kernel Simulator...
+[2025-11-09 12:20:15] [INFO] All subsystems initialized successfully.
+[2025-11-09 12:20:15] [INFO] Entering main loop...
+[2025-11-09 12:20:19] [WARNING] Subsystem CPU crashed unexpectedly.
+[2025-11-09 12:20:19] [INFO] Attempting recovery of CPU...
+[2025-11-09 12:20:20] [SUCCESS] Subsystem CPU recovered successfully.
+[2025-11-09 12:20:37] [MANUAL] Manual restart initiated for Memory.
+[2025-11-09 12:20:38] [SUCCESS] Subsystem Memory restarted successfully.
+[2025-11-09 12:20:44] [MANUAL] Manual restart initiated for I/O.
+[2025-11-09 12:20:45] [SUCCESS] Subsystem I/O restarted successfully.
+[2025-11-09 12:20:57] [WARNING] Subsystem I/O crashed unexpectedly.
+[2025-11-09 12:20:57] [INFO] Attempting recovery of I/O...
+[2025-11-09 12:20:58] [SUCCESS] Subsystem I/O recovered successfully.
